@@ -1,7 +1,7 @@
-title: Home
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Dhruv Jain
+subtitle: Sr. Consultant
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,11 +26,15 @@ urls:
 
 author_logo: profile.png
 author: Dhruv Jain
-author_bio: Hi, my name is Dhruv Jain. I built stuff
+author_bio: Experienced Senior Consultant with over 9+ years of experience in the Technology and Banking domains, primarily focusing on Digital Transformation, Microsoft Azure, Cloud Migration, DevOps, and Automation (UI and API).
+
+Proficient in Agile (Scrum/Kanban) and Waterfall methodologies, with a proven track record in designing and delivering solutions. A confident Consultant dedicated to achieving client objectives, from strategy development through implementation to realising benefits.
+
+Possesses deep expertise across multiple sectors, a collaborative and inclusive style, and excellent skills in people, project, and stakeholder management. Can quickly process complex information and generate solutions while maintaining a high level of positive energy. Demonstrates strong leadership abilities and excels in interpersonal and relationship-building skills, fostering enthusiasm and commitment in multi-stakeholder environments.
 author_email: "dhruv_jain@live.com"
-author_location: India
+author_location: "Edinburgh"
 author_website_url: "dhruv_jain@live.com"
-typewrite-text: Let's talk about Cloud, Autoamtion and AI
+typewrite-text: Let's talk about Cloud, Automation and AI
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
