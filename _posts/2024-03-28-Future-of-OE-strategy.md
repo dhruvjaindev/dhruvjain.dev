@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
-summary: "Getting Started using devlopr-jekyll"
-author: johndoe
-date: '2019-05-22 14:35:23 +0530'
-category: jekyll
+title:  "Future of QA"
+summary: "In the rapidly evolving landscape of technology, crafting a robust Quality Assurance (QA) strategy that not only ensures the integrity of your product but also maximizes its output is paramount."
+author: Dhruv Jain
+date: '2023-03-29 1:35:23 +0000'
+category: ['Automation','Quality Assurance']
+tags: Automation
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
-permalink: /blog/welcome-to-devlopr-jekyll/
-usemathjax: true
+keywords: Automation, Quality Assurance', how to use devlopr, QA strategy
+usemathjax: false
+permalink: /blog/Future-of-OE-strategy/
 ---
 
 
