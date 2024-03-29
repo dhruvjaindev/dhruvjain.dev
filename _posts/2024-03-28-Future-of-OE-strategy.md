@@ -2,7 +2,7 @@
 layout: post
 title:  "Crafting an Agile QA Strategy in a Dynamic Tech Environment"
 summary: "In the rapidly evolving landscape of technology, crafting a robust Quality Assurance (QA) strategy that not only ensures the integrity of your product but also maximizes its output is paramount."
-author: Dhruv Jain
+author: Dhruv
 date: '2023-03-29 1:35:23 +0000'
 category: ['Automation','Quality Assurance']
 tags: Automation
